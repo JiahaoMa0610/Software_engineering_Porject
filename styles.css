@@ -100,6 +100,9 @@ html, body {
 .main-footer {
     background-color: rgb(242, 86, 86);
     color: white;
+	width: 100%;
+    bottom: 0;
+    position: fixed;
     padding: .25em 0;
 }
 
