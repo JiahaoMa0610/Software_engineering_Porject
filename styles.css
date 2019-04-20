@@ -62,9 +62,9 @@ html, body {
 .band-name {
     text-align: center;
     margin: 0;
-    font-size: 4em;
-    font-family: "Booter - Zero Zero";
+    font-family: Arial Verdana , Sans-serif;
     font-weight: normal;
+	font-size: 3em;
     color: white;
 }
 
@@ -82,7 +82,7 @@ html, body {
     padding: 0 1.5em;
 }
 .section-header {
-    font-family: "Metal Mania";
+    font-family: Arial Verdana , Sans-serif;
     font-weight: normal;
     color: #333;
     text-align: center;
@@ -101,6 +101,7 @@ html, body {
     background-color: rgb(242, 86, 86);
     color: white;
 	width: 100%;
+	height: 8%;
     bottom: 0;
     position: fixed;
     padding: .25em 0;
